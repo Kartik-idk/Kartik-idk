@@ -72,12 +72,13 @@ I am a Computer Science & Engineering undergraduate focused on practical softwar
 
 ---
 
-### 📦 Utilities, Security & Academic Implementations
+### 📦 Utilities, Security & Practical Applications
 
-- **[Smart Bill Calculator](https://github.com/Kartik-idk/Smart-Bill-Calculator):** Production-grade retail invoicing engine implementing exact banking decimal arithmetic (`ROUND_HALF_UP`), GST tax schedules, and calendar-exact warranty expiration tracking handling leap years. Verified with 26 unit tests.
+- **[Smart Bill Calculator](https://github.com/Kartik-idk/Smart-Bill-Calculator):** Dependable retail billing and tax invoicing utility in Python with exact decimal banking arithmetic (`ROUND_HALF_UP`), GST tax calculations, and calendar-exact warranty expiration tracking handling leap years. Verified with 26 unit tests.
 - **[OTP Generator](https://github.com/Kartik-idk/OTP_generator):** Cryptographically secure one-time password utility utilizing `secrets` CSPRNG, constant-time HMAC comparison to prevent timing side-channels, and expiry validation. Verified with 29 unit tests.
 - **[pH Master](https://github.com/Kartik-idk/pH-Master-):** Client-side chemical solution calculator modeling strong/weak acids and bases, diprotic ionization, step-by-step mathematical derivations, and dynamic 0–14 pH scale visualization. [Live Demo](https://adorable-choux-cf076b.netlify.app/).
 - **[Habit Tracker](https://github.com/Kartik-idk/Habit-Tracker):** Console-based habit and streak tracking utility written in Java SE with flat-file CSV state serialization.
+- **[Simple Interest Calculator](https://github.com/Kartik-idk/Simple-Interest-Calculator):** Procedural CLI financial calculation utility implemented in C99 for evaluating simple interest and maturity balances with standard I/O.
 
 ---
 
